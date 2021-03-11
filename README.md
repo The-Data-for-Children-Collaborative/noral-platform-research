@@ -58,8 +58,10 @@ root
   └── _decisions/
   └── _resources/
   └── contribute/
+  └── data/
   └── design/
-  └── decisions/
+  └── tech/
+  └── social-science/
   └── LICENSE.md
   └── README.md
 ```
