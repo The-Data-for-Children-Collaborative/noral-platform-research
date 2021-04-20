@@ -27,7 +27,7 @@ Don't do anything that you wouldn't do in a real life work space. Thank you! :)
 
 ## Active Threads
 
-Please refer to the [Methodology](noral-platform-research/#methodology) section in the project `[README.md](https://github.com/The-Data-for-Children-Collaborative/noral-platform-research)` to understand active areas of contribution.
+Please refer to the [Methodology](../../..#methodology) section in the project [`README.md`](https://github.com/The-Data-for-Children-Collaborative/noral-platform-research) to understand active areas of contribution.
 
 ## Contribute
 
