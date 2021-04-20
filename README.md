@@ -57,7 +57,7 @@ In today's fast-paced technological landscape, where data is a driving force and
 
 ## Contributions
 
-You can refer to the [contributing guidelines](_contribute/contributing.md) and understand how to contribute.
+You can refer to the [contributing guidelines](_contribute/CONTRIBUTING.md) and understand how to contribute.
 
 ## Repo Structure
 
