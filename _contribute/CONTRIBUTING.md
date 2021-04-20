@@ -19,7 +19,7 @@ The following is a set of guidelines for contributing to contribute to the `nora
 
 ## Code of Conduct
 
-Our code of conduct has been inspired by [Contributor Covenant](https://www.contributor-covenant.org/). You can find the same [here](main/_contribute/CODE-OF-CONDUCT.md).
+Our code of conduct has been inspired by [Contributor Covenant](https://www.contributor-covenant.org/). You can find the same [here](CODE-OF-CONDUCT.md).
 
 ## TL;DR
 
