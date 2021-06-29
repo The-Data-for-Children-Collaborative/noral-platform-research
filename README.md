@@ -47,8 +47,9 @@ In today's fast-paced technological landscape, where data is a driving force and
 
 ### Active Threads
 
-- [Activity 01](research/01-stakeholder-engagement) : Stakeholder Engagement
-- [Activity 02](research/02-background-research) : Background Research
+- [Activity 01](research/) : Stakeholder Research
+- [Activity 02](https://github.com/The-Data-for-Children-Collaborative/noral-design-research) : Design Research
+- [Activity 03](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research) : Tech Research
 
 ### Activity X
 > Upcoming activities on the project.
@@ -58,6 +59,8 @@ In today's fast-paced technological landscape, where data is a driving force and
 ## Contributions
 
 You can refer to the [contributing guidelines](_contribute/CONTRIBUTING.md) and understand how to contribute.
+
+The active project to track all the research is available [here](https://github.com/orgs/The-Data-for-Children-Collaborative/projects/1).
 
 ## Repo Structure
 
