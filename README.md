@@ -1,60 +1,26 @@
-# NORAL | Platform Research
+# NORAL | Stakeholder Research
 
-> Research around the data, tech, design and social science to build the NORAL project platform.
-
-## Table of Contents
-
-[Background](#background)
-- [The Project](#the-project)
-- [CivicDataLab](#civicdatalab)
-- [Data for Children Collaborative](#data-for-children-collaborative)
-
-[Methodology](#methodology)
-- [Active Threads](#active-threads)
-- [Activity X](#activity-x)
-
-[Contributions](#contributions)
-
-[Repo Structure](#repo-structure)
-
-[License](#license)
+> Understanding the aspirations, needs and challenges of key stakeholders for the NORAL project.
 
 ## Background
 
-### The Project
+You can read moew
 
-The aim of this collaboration is to determine what data sources and techniques best reflect the challenges of child poverty, and subsequently provide a means to assess the poverty related attainment gap as a result – which will further allow individual school settings, local authorities and other bodies to plan targeted interventions to reduce it.
-
-Developed through our [Impact Collaborations process](https://www.dataforchildrencollaborative.com/impact-collaborations-1), this project has brought together academic expertise from the Fraser of Allander Institute at the [University of Strathclyde](https://www.strath.ac.uk/business/economics/fraserofallanderinstitute/) and [Glasgow Caledonian University](https://www.gcu.ac.uk/), and data science expertise at [CivicDataLab](https://civicdatalab.in/) and [East Neuk Analytics](https://eastneukanalytics.com/). During this initial phase, the team will work in partnership with [Northern Alliance](https://northernalliance.scot/) and the Local Authorities they represent.
-
-The objective within this initial phase is to work with stakeholders to identify the shared knowledge gap across local authorities, identify the most appropriate indicators and map the suitable data sources that can be used at the school catchment aggregation.
-
-You can read more about the project [here](https://www.dataforchildrencollaborative.com/poverty/northern-alliance).
-
-### CivicDataLab
+## CivicDataLab
 
 CivicDataLab ([CDL](https://civicdatalab.in/)) works with the goal to use data, tech, design and social science to strengthen the course of civic engagements in India. We work to harness the potential of open-source movement toggit enable citizens to engage better with public reforms. We aim to grow data and tech literacy of governments, nonprofits, think-tanks, media houses, universities etc to enable data-driven decision making at scale.
 
-### Data for Children Collaborative
+## Active Threads
 
-[The Data for Children Collaborative with UNICEF](https://www.dataforchildrencollaborative.com/) is a unique partnership between UNICEF, The Scottish Government and the University of Edinburgh, hosted by The Data Lab. 
+- Stakeholder Survey
+- Stakeholder Workshop
 
-Our goal is to leverage expertise from each of our partner organisations in order to address existing problems for children using innovative data science techniques. 
-
-In today's fast-paced technological landscape, where data is a driving force and evidence is vital to decision making, we want to **provide the platform** that brings together the **data, skills and expertise** to answer our challenge questions. Our role is to build and support project teams to produce real-world impacts that help the world's children. 
-
-## Methodology
-
-### Active Threads
-
-- [Activity 01](research/) : Stakeholder Research
-- [Activity 02](https://github.com/The-Data-for-Children-Collaborative/noral-design-research) : Design Research
-- [Activity 03](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research) : Tech Research
-
-### Activity X
+### Upcoming Threads
 > Upcoming activities on the project.
 
-`<< TBU >>`
+- Stakeholder Interviews
+- User Personas
+- User Journeys
 
 ## Contributions
 
@@ -68,7 +34,6 @@ The active project to track all the research is available [here](https://github.
 root
   └── _contribute/
   └── _decisions/
-  └── _resources/
   └── research/
         └── 01-stakeholder-engagement/
         └── ..
