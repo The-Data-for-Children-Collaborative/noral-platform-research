@@ -6,14 +6,10 @@
 
 You can read more about the project and other related work [here](https://github.com/The-Data-for-Children-Collaborative/noral-project).
 
-## CivicDataLab
-
-CivicDataLab ([CDL](https://civicdatalab.in/)) works with the goal to use data, tech, design and social science to strengthen the course of civic engagements in India. We work to harness the potential of open-source movement toggit enable citizens to engage better with public reforms. We aim to grow data and tech literacy of governments, nonprofits, think-tanks, media houses, universities etc to enable data-driven decision making at scale.
-
 ## Active Threads
 
-- Stakeholder Survey
-- Stakeholder Workshop
+- [Stakeholder Survey](01-stakeholder-survey)
+- [Stakeholder Workshop](02-stakeholder-workshop)
 
 ### Upcoming Threads
 > Upcoming activities on the project.
