@@ -4,7 +4,7 @@
 
 ## Background
 
-You can read moew
+You can read more about the project and other related work [here](https://github.com/The-Data-for-Children-Collaborative/noral-project).
 
 ## CivicDataLab
 
@@ -34,9 +34,10 @@ The active project to track all the research is available [here](https://github.
 root
   └── _contribute/
   └── _decisions/
-  └── research/
-        └── 01-stakeholder-engagement/
-        └── ..
+  └── 00-stakeholder-engagement/
+  └── 01-stakeholder-survey/
+  └── 02-stakeholder-workshop/
+  └── 03-stakeholder-interviews/
   └── LICENSE.md
   └── README.md
 ```

@@ -9,10 +9,10 @@ The Questionnaire can be found [here](01.02-questionnaire.md).
 > Thinking about the ‘why’.
 
 ## `Step 3.` | Workshop by CDL
-> Disucussion around 5-10 major challenge areas to capture responses and points on contention.
+> Disucussion around 5-10 major challenge areas to capture responses and points of contention.
 
 - Combined with all stakeholders
-- Length: `1.5 HRS`
+- Length: `2 HRS`
 - Toolkit: Mural / Miro Board
 
 **For each Challenge Area**
