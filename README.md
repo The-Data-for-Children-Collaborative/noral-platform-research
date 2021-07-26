@@ -10,11 +10,11 @@ You can read more about the project and other related work [here](https://github
 
 - [Stakeholder Survey](01-stakeholder-survey)
 - [Stakeholder Workshop](02-stakeholder-workshop)
+- [Stakeholder Interviews](03-stakeholder-interviews)
 
 ### Upcoming Threads
 > Upcoming activities on the project.
 
-- Stakeholder Interviews
 - User Personas
 - User Journeys
 
@@ -28,12 +28,12 @@ The active project to track all the research is available [here](https://github.
 
 ```
 root
-  └── _contribute/
-  └── _decisions/
   └── 00-stakeholder-engagement/
   └── 01-stakeholder-survey/
   └── 02-stakeholder-workshop/
   └── 03-stakeholder-interviews/
+  └── _contribute/
+  └── _decisions/
   └── LICENSE.md
   └── README.md
 ```
