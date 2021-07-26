@@ -14,7 +14,7 @@
 >
 > **Thanks for the participation!**
 
-### Section I | Basic Information
+## Section I | Basic Information
 
 `1.` Select the role you identify as the the most.
 
@@ -45,7 +45,7 @@
 
 `4.` How long have you been working in the domain child education?
 
-### Section II | Usage Patterns
+## Section II | Usage Patterns
 
 #### Existing Resources
 
@@ -105,7 +105,7 @@
 
 `1` / `2` / `3` / `4` / `5`
 
-### Section III | User Requirements
+## Section III | User Requirements
 
 `11.` What kind on data and/or information mediums would you prefer to better understand the state of child education in your region?
 > Select all that apply.
@@ -153,7 +153,7 @@
 
 `17.` If the answer to the above question is "Yes" and you are willing to disclose, please share some information about your work below.
 
-### Section V | Personal Information
+## Section V | Personal Information
 > All the personally indetifiable information requested on this final page of the survey is optional.
 > 
 > It may help us better understand user, classify potential use-cases and extend communication to key stakeholders for further details.
