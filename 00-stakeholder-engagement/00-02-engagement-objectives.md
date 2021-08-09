@@ -15,7 +15,6 @@ Collect insights from the stakeholders to build the following **levels of inform
 The research should attempt to address the following questions: 
 
 `Level 1` - **What**
-
 - What are the outputs the the end users want interact with based on information inputs?
 - What are the different kinds of data and/or information that users are seeking?
 - What are the purposes for which users are planning to use this data and/or information?
