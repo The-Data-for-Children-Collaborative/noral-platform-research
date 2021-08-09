@@ -4,11 +4,37 @@
 
 As a first step of the stakeholder research a survey was conducted to better understand the current landscape, primary users, their aspirations and challenges faced along the way. This information also played an important role in planning for the upcoming engagements with the key stakeholders.
 
-## Findings
+## Summary
 
-### Summary
+### Findings
 
-> Total Responses: `13`
+
+### Preferences
+> **Data vs. Platforms**
+
+**Usage**
+
+<img width="674" alt="image" src="https://user-images.githubusercontent.com/11213505/128690148-5660913f-cc82-4dc8-bae7-e997bceaa9b3.png">
+
+---
+
+**Accessibility**
+
+<img width="678" alt="image" src="https://user-images.githubusercontent.com/11213505/128690770-ccb40ed1-3fda-4b09-af96-c238099c5adb.png">
+
+---
+
+**Resources**
+> Data and platform sources accessed by the respondents.
+
+| Data | Platforms |
+| --- | --- |
+| **Specific**:<br> - Achievement of Curriculum for Excellence levels (ACEL)<br>- Scottish Planning Policy (SPP) Data<br>- National Improvement Framework (NIF)<br>- PIPS: Test Data<br>- Datahub | **Specific**:<br>- Insight<br>- BGE Benchmarking Tool<br>- SEEMiS Group; Education Management Information System (MIS)<br>- Scottish National Standardised Assessments (SNSA)<br>- National Risk Framework |
+| **Others**:<br>- School Attendance and Exclusion<br>- School Tracking Spreadsheet<br>- School Data Packs<br>- Children's Mental Health<br>- Attainment Data through LA at authority level and school level exam results. | **Others**:<br>- Local Authority Dashboard<br>- School Dashboard |
+
+### Composition
+
+Total Responses: `13`
 
 **Domain Experience**
 
@@ -19,17 +45,25 @@ As a first step of the stakeholder research a survey was conducted to better und
 
 <img width="533" alt="image" src="https://user-images.githubusercontent.com/11213505/128685824-ad5f4c4d-ef5e-4baa-b24f-f8222b334783.png">
 
+---
+
 **By Gender**
 
 <img width="592" alt="image" src="https://user-images.githubusercontent.com/11213505/128684252-6e54cd52-1929-4b12-bb08-92a84fff2acf.png">
+
+---
 
 **By Age Group**
 
 <img width="592" alt="image" src="https://user-images.githubusercontent.com/11213505/128684018-534ab8d5-e7e8-45b6-b24c-3ec7458105de.png">
 
+---
+
 **By Role**
 
 <img width="759" alt="image" src="https://user-images.githubusercontent.com/11213505/128685042-e974a9d8-d83f-438f-b97b-530578e7ede9.png">
+
+---
 
 **By Region**
 
