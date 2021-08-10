@@ -8,6 +8,38 @@ As a first step of the stakeholder research a survey was conducted to better und
 
 ### Findings
 
+`#1` : **How can we effectively understand the impact of child poverty on education within urban and rural contexts?**
+
+> **Helping School Professionals**
+- Making them of the full range of data available.
+- Help select which data is relevant to their priorities and which is not. 
+- Services and Interventions available, not available and why.
+
+> **Holistic Approach**
+- Tracking a young person's school journey in its totality.
+- Comsidering community, family and child together.
+- Consulting with children and parents regarding the impact of poverty. 
+- Engaging with families that are recipients of benefits.
+- Generational issues and views of the children classed as in poverty. 
+- Creating greater awareness of patterns among stakeholders including parents, carers and learners' representatives.
+
+> **Defining Poverty**
+- Difficult to track, there is a lot of hidden poverty.
+- Reconsider the criteria for identifying child poverty. 
+- Understanding all aspects of poverty across the child's day, week and year.
+- Taking a broad view of poverty beyond finance, relating to quality of life.
+
+> **Use of Information**
+- Wider factors to consider than just SIMD and FSM. 
+- Rural and Remote Rural contexts SIMD is a crude data measure.
+- Having a wider view on data used to understand the local context.
+- Developing systems to support authority-level and cluster-level analysis of patterns.
+
+> **Others**
+- Challenges around privacy and security; might be probing into personal life of individuals.
+- Cost of living in small communities; equity of opportuntiy of access to services etc.
+- Using local level information on the context and demographics.
+- Drilling down along with attainment data in the school - looking for trends.
 
 ### Preferences
 > **Data vs. Platforms**
