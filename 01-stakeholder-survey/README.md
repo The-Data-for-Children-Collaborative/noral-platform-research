@@ -41,6 +41,50 @@ As a first step of the stakeholder research a survey was conducted to better und
 - Using local level information on the context and demographics.
 - Drilling down along with attainment data in the school - looking for trends.
 
+`#2` - **What changes in the data and/or information ecosystem would have a positive impact in the education system?**
+
+> **Central Access**
+- Ease of access to data that allows key stakeholders with ability to engage with the data.
+- One stop shop to gather and input data for the children from disadvantaged backgrounds.
+- Fully integrated platforms which easily link attainment data to socio-economic data.
+- Holistic view over time of what being successful looks like.
+- Data systems whereby Health, Police, Social Work and Education professionals can have access to actionable data timely.
+
+> **Consistency**
+- Consitentcy of approach for LAs to see similar datasets / platforms to access from a National level.
+- A coherent approach which is universally adopted across Local Authorities than each Authority making their own dashboards.
+
+> **Types of Data**
+- More detailed information on demographics in local areas.
+- Timely availablity of data available from sources like SQA.
+- Longitudinal data that measure value added and impact over years rather than focusing on attainment at points in time. 
+- Enable efficient gathering and analysis of data so that school leaders and communities can respond more quickly and with greater intelligence. 
+
+> **Others**
+- Higher levels of awareness about the impact of poverty.
+- Free up schools to work on creative solutions.
+- Too much time is being wasted on needless administrative tasks 
+- Ease up efforty by creating a better designed system.
+
+`#3` - **How could any data and/or information available on the open education-based data platform we are developing be made more actionable for you?**
+
+> **Features Required**
+- Quickly determine trends across my establishment and compare that with others.
+- Ability to filter by a wide range of headings and to be able to intersect different data.
+- Benchmarking / comparison data to compare against other LAs / RIC.
+- Metrics that can measure the effects of multiple factors - and extent to which one factor correlates with another.
+
+> **Culture**
+- Promote networking and sharing of practice amongst Local Authorities and Services.
+- SIMD is not a universally reliable indicator of lack of advantage.
+- The process of providing available data in turn could engage all education stakeholders.
+- Include stakeholders in the expectation of their role to support and make support more inclusive.
+
+> **Others**
+- Clear data with clear pathways of action.
+- Risk of disconnected and redundant data.
+- More information about the local area.
+
 ### Preferences
 > **Data vs. Platforms**
 
