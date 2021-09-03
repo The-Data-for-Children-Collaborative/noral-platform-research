@@ -6,17 +6,12 @@
 
 You can read more about the project and other related work [here](https://github.com/The-Data-for-Children-Collaborative/noral-project).
 
-## Active Threads
+## Threads
 
-- [Stakeholder Survey](01-stakeholder-survey)
-- [Stakeholder Workshop](02-stakeholder-workshop)
-- [Stakeholder Interviews](03-stakeholder-interviews)
-
-### Upcoming Threads
-> Upcoming activities on the project.
-
-- User Personas
-- User Journeys
+- [Stakeholder Survey](research/01-stakeholder-survey)
+- [Stakeholder Workshop](research/02-stakeholder-workshop)
+- [Stakeholder Interviews](research/03-stakeholder-interviews)
+- [Key Findings](research)
 
 ## Contributions
 
@@ -28,10 +23,11 @@ The active project to track all the research is available [here](https://github.
 
 ```
 root
-  └── 00-stakeholder-engagement/
-  └── 01-stakeholder-survey/
-  └── 02-stakeholder-workshop/
-  └── 03-stakeholder-interviews/
+  └── research/
+    └── 00-stakeholder-engagement/
+    └── 01-stakeholder-survey/
+    └── 02-stakeholder-workshop/
+    └── 03-stakeholder-interviews/
   └── _contribute/
   └── _decisions/
   └── LICENSE.md
