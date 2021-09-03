@@ -18,7 +18,7 @@ All the stakeholders were asked to share the most frequently used tools and revi
 - Things they didn't like about the tool / platform.
 - Things they would like to improve about the tool / platform.
 
-All the findings from the section of the workshop was consolidated along with an in-depth design audit of the most frequently mentioned platforms. All the design audit work can found at the following [link](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/tree/main/design-audit). 
+All the findings from the section of the workshgit op was consolidated along with an in-depth design audit of the most frequently mentioned platforms. All the design audit work can found at the following [link](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/tree/main/design-audit). 
 
 ### Feature Feedback
 
