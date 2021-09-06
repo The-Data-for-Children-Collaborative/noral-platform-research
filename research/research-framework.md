@@ -140,22 +140,26 @@ Stakeholder Insight mapping gives an overview of all the points or insights that
 Stakeholder mapping will provide a common points or insights under stakeholder roles and will highlight their key challenges and aspirations
 
 **The Takeaway**
+
 Stakeholder mapping provides a head start to develop persons for stakeholders involved in the project. It highlights roles and responsibilities of stakeholders, existing platform usage, challenges and aspirations.
 
-Template of Stakeholder Insight Map.
+Template of Stakeholder Insight Map
 
-![](https://lh3.googleusercontent.com/1TZCuz4KnGlhC11qdyekT89B3E_CikilPWvKzCmyRDnro45Yba0wr7M_QwGjvhGqbYe_ATJPEYyGg62bzK2HlQxrd-n30Hn-InZopVMjCVHpNru6h3w1C-mrqgt2jg=s0
-  
+![](https://lh3.googleusercontent.com/1TZCuz4KnGlhC11qdyekT89B3E_CikilPWvKzCmyRDnro45Yba0wr7M_QwGjvhGqbYe_ATJPEYyGg62bzK2HlQxrd-n30Hn-InZopVMjCVHpNru6h3w1C-mrqgt2jg=s0)
 
-**Result** - Stakeholder Insight Map can be found [here](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/03-stakeholder-interviews/README.md).
+**Result - Stakeholder Insight Map can be found** [here](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/03-stakeholder-interviews/README.md)
 
 ## 2. Research Consolidation
 
 Translation of summarised data generated from each research step to formulate a single constructive research outcome for building the data platform is referred to as Research Consolidation. Findings from research need a strong consolidation framework to support the outcomes. A suitable consolidation framework was developed for the data generated from the research done through Surveys, Workshops and Stakeholder Interviews
 
+
 Below is the overview of Data available from each research step.
 
 ![](https://lh5.googleusercontent.com/5ND8jlYsnERXv27ilBTk7WlvvTPuFFRHOvfQOYFBZgYz5Miy5qyNNekAw2Qh1BvhOUg9sXmDx58M80FVAiSkTUOWosdw_56dqNuzu-5fOBG4VfThkDws91MYZqcUfg=s0)
+
+
+
 Based on the the above data following are the steps generated for research consolidation.
 
 ### 2.1. Stakeholder Interviews
