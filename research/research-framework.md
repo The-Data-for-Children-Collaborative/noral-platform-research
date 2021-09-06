@@ -230,7 +230,8 @@ Template of Stakeholder Feature Prioritization Framework:
 ---
 
 ![](https://lh5.googleusercontent.com/oB_y0Bl6Zh6Yj2eHkhplbdgiLWDOGiLEA6yP5HRs6tedmHIziJspq-aAWBYWqzDFAemlZEjeP0IJV__i8y3L-IuuI_vfaL1pf48PEXJYx6_3ZhlotxxNIIllDfORaA=s0)
-**Result** - Stakeholder Prioritization Framework can be found [here](https://drive.google.com/drive/folders/1cJaHxD-sPmWRKZ8vy_LQIoO8I7VHrboy?usp=sharing).
+
+**Result** - Stakeholder Prioritization Framework can be found [here](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/tree/main/research/02-stakeholder-workshop/MoSCoW%20Prioritization)
 
 **2.2.2. User Journey Maps**
 
