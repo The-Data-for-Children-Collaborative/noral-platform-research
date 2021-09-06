@@ -1,4 +1,3 @@
-
 # Stakeholder Research
 > Research insights and consolidation methodology. - **Action, Output & Impact**
 
@@ -6,11 +5,11 @@
 
 ## Project Narrative
 
-NORAL  Project Noral aims to determine what data sources and techniques can best reflect the challenges of child poverty, and subsequently provide means to assess poverty related attainment gaps. This will assist all the stakeholder involved with school, local authorities and other stakeholders to plant targeted interventions and take corrective action.
+NORAL Project aims to determine what data sources and techniques can best reflect the challenges of child poverty, and subsequently provide means to assess poverty related attainment gaps. This will assist all the stakeholder involved with school, local authorities and other stakeholders to plant targeted interventions and take corrective action.
 
 The objective within this initial phase is to work with stakeholders to identify the shared knowledge gap across local authorities, identify the most appropriate indicators and map the suitable data sources that can be used at the school catchment aggregation.
 
-This phase involves actively interacting and engaging stakeholders in various research activities. Identifying their pain areas, challenges, aspirations , behaviours , patterns which can lead the research to define the direction of the project in larger scope.
+This phase involves actively interacting and engaging stakeholders in various research activities. Identifying their pain areas, challenges, aspirations, behaviours, patterns which can lead the research to define the direction of the project in larger scope.
 
 ## Stakeholder Research
 
@@ -140,10 +139,9 @@ Stakeholder Insight mapping gives an overview of all the points or insights that
 Stakeholder mapping will provide a common points or insights under stakeholder roles and will highlight their key challenges and aspirations
 
 **The Takeaway**
-
 Stakeholder mapping provides a head start to develop persons for stakeholders involved in the project. It highlights roles and responsibilities of stakeholders, existing platform usage, challenges and aspirations.
 
-Template of Stakeholder Insight Map
+Template of Stakeholder Insight Map.
 
 ![](https://lh3.googleusercontent.com/1TZCuz4KnGlhC11qdyekT89B3E_CikilPWvKzCmyRDnro45Yba0wr7M_QwGjvhGqbYe_ATJPEYyGg62bzK2HlQxrd-n30Hn-InZopVMjCVHpNru6h3w1C-mrqgt2jg=s0)
 
@@ -153,12 +151,9 @@ Template of Stakeholder Insight Map
 
 Translation of summarised data generated from each research step to formulate a single constructive research outcome for building the data platform is referred to as Research Consolidation. Findings from research need a strong consolidation framework to support the outcomes. A suitable consolidation framework was developed for the data generated from the research done through Surveys, Workshops and Stakeholder Interviews
 
-
 Below is the overview of Data available from each research step.
 
 ![](https://lh5.googleusercontent.com/5ND8jlYsnERXv27ilBTk7WlvvTPuFFRHOvfQOYFBZgYz5Miy5qyNNekAw2Qh1BvhOUg9sXmDx58M80FVAiSkTUOWosdw_56dqNuzu-5fOBG4VfThkDws91MYZqcUfg=s0)
-
-
 
 Based on the the above data following are the steps generated for research consolidation.
 
@@ -231,6 +226,7 @@ MoSCoW prioritization, will help in feature prioritization for the platform. Fea
 Template of Stakeholder Feature Prioritization Framework:  
 
 ![](https://lh4.googleusercontent.com/KgTIQx8IEPAxuQFub2gxIolbfbGHeCXegZY0GFqr2yhU5Lum51o5yfuXGXglko6L_gM6r5LTQi1z_s7vlQpwHeNxRH6cw4IjU6Osc9basx8i7FLi1uD2kUM7L2tkIQ=s0)
+
 ---
 
 ![](https://lh5.googleusercontent.com/oB_y0Bl6Zh6Yj2eHkhplbdgiLWDOGiLEA6yP5HRs6tedmHIziJspq-aAWBYWqzDFAemlZEjeP0IJV__i8y3L-IuuI_vfaL1pf48PEXJYx6_3ZhlotxxNIIllDfORaA=s0)
@@ -246,16 +242,12 @@ A user journey map (also known as a customer journey map) is a diagram that visu
 **Advantages**
 The process of mapping their journey encourages and reminds them to consider the entire user experience: their feelings, questions and needs while they interact with the platform. It’s used for understanding and addressing customer needs and pain points. What is the user thinking about and what are they hoping to achieve?
 
-**Outcomes of User Personas and their respective User Journey maps can be found below:
+Outcomes of User Personas and their respective User Journey maps can be found below:
 
-1.  [Quality Improvement Managers](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/personas-and-journeys/pdf/quality-improvement-managers.pdf)
-    
-2.  [Attainment Advisors](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/personas-and-journeys/pdf/attainment-dvisors.pdf)
-    
-3.  [Education Psychologists](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/personas-and-journeys/pdf/educational-psychologist.pdf)
-    
-4.  [Head Teachers](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/personas-and-journeys/pdf/head-teachers.pdf)
-    
+1.  [Quality Improvement Managers](personas-and-journeys/pdf/quality-improvement-managers.pdf)
+2.  [Attainment Advisors](personas-and-journeys/pdf/attainment-dvisors.pdf)
+3.  [Education Psychologists](personas-and-journeys/pdf/educational-psychologist.pdf)
+4.  [Head Teachers](personas-and-journeys/pdf/head-teachers.pdf)
 
 **Conclusion**
 
@@ -264,7 +256,5 @@ Stakeholder analysis uncovers and removes multiple barriers in understanding the
 By using the consolidation methods of personas and user journeys we plan to achieve the following steps ahead:
 
 1.  User journeys will help in further building wireframes of each stakeholder for the platform
-    
 2.  It will address the needs and aspiration along with user action which the platform can cover
-    
 3.  It will also scope the space of opportunities that can be achieved as per user needs
