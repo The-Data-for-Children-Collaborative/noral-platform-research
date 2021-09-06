@@ -68,18 +68,25 @@ Data generated from Stakeholder Interviews spoke more about the individual peopl
 1.  Generating **User Personas** methodology was used to support Stakeholder Insights from Stakeholder Interviews.
 2.  **User Journeys Maps** based on the Stakeholder Prioritization Framework and Personas we developed the user journeys maps for each stakeholder.
 
-**Outcomes of User Personas and their respective User Journey maps can be found** [**here**](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/Stakeholder%20Personas%20&%20Journeys).
+**Outcomes of User Personas and their respective User Journey maps can be found below:** 
 
-1.  Quality Improvement Managers
-2.  Attainment Advisors
-3.  Education Psychologists
-4.  Head Teachers
+1.  [Quality Improvement Managers](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/personas-and-journeys/png/quality-improvement-managers.png)
+    
+2.  [Attainment Advisors](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/personas-and-journeys/png/attainment-advisors.png)
+    
+3.  [Educational Psychologist](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/personas-and-journeys/png/educational-psychologist.png)
+    
+4.  [Head Teachers](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/personas-and-journeys/png/head-teachers.png)
+    
 
-## Conclusion
+Conclusion
 
 Stakeholder analysis uncovers and removes multiple barriers in understanding the project's progression, stakeholder analysis. It also eliminates the roadblocks in releasing successful projects by getting information about project supporters, opponents, and their levels of importance in the project.
 
 By using the consolidation methods of personas and user journeys we plan to achieve the following steps ahead:
-1. User journeys will help in further building wireframes of each stakeholder for the platform
-2. It will address the needs and aspiration along with user action which the platform can cover
-3. It will also scope the space of opportunities that can be achieved as per user needs.
+
+1.  User journeys will help in further building wireframes of each stakeholder for the platform
+    
+2.  It will address the needs and aspiration along with user action which the platform can cover
+    
+3.  It will also scope the space of opportunities that can be achieved as per user needs
