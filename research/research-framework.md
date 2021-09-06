@@ -10,7 +10,7 @@ NORAL  Project Noral aims to determine what data sources and techniques can best
 
 The objective within this initial phase is to work with stakeholders to identify the shared knowledge gap across local authorities, identify the most appropriate indicators and map the suitable data sources that can be used at the school catchment aggregation.
 
-This phase involves actively interacting and engaging stakeholders in various research activities. Identifying their pain aereas, challenges, aspirations , behaviours , patterns which can lead the research to define the direction of the project in larger scope.
+This phase involves actively interacting and engaging stakeholders in various research activities. Identifying their pain areas, challenges, aspirations , behaviours , patterns which can lead the research to define the direction of the project in larger scope.
 
 ## Stakeholder Research
 
