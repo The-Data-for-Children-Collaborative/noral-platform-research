@@ -101,9 +101,29 @@ Data generated from Stakeholder Interviews spoke more about the individual peopl
 2.  User Journeys Maps - Based on the Stakeholder Prioritization Framework and Personas we developed the user journeys maps for each stakeholder.
     
 
-Outcomes of User Personas and their respective User Journey maps can be found below:
+**Outcomes of User Personas and their respective User Journey maps can be found** [here](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/Stakeholder%20Personas%20&%20Journeys/README.md)
+
+1.  Quality Improvement Managers
+    
+2.  Attainment Advisors
+    
+3.  Educational Psychologist
+    
+4.  Head Teachers
 
 
+   
+**Conclusion**
+
+Stakeholder analysis uncovers and removes multiple barriers in understanding the project's progression, stakeholder analysis. It also eliminates the roadblocks in releasing successful projects by getting information about project supporters, opponents, and their levels of importance in the project.
+
+By using the consolidation methods of personas and user journeys we plan to achieve the following steps ahead:
+
+1.  User journeys will help in further building wireframes of each stakeholder for the platform
+    
+2.  It will address the needs and aspiration along with user action which the platform can cover
+    
+3.  It will also scope the space of opportunities that can be achieved as per user needs
 
 
 
