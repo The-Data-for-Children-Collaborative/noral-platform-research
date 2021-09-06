@@ -246,18 +246,25 @@ A user journey map (also known as a customer journey map) is a diagram that visu
 **Advantages**
 The process of mapping their journey encourages and reminds them to consider the entire user experience: their feelings, questions and needs while they interact with the platform. It’s used for understanding and addressing customer needs and pain points. What is the user thinking about and what are they hoping to achieve?
 
-**Outcomes of User Personas and their respective User Journey maps can be found [here]**(https://github.com/The-Data-for-Children-Collaborative/noral-user-research/tree/main/research/Stakeholder%20Personas%20%26%20Journeys).
+**Outcomes of User Personas and their respective User Journey maps can be found below:
 
-1.  Quality Improvement Managers
-2.  Attainment Advisors
-3.  Education Psychologists
-4.  Head Teachers
+1.  [Quality Improvement Managers](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/personas-and-journeys/pdf/quality-improvement-managers.pdf)
+    
+2.  [Attainment Advisors](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/personas-and-journeys/pdf/attainment-dvisors.pdf)
+    
+3.  [Education Psychologists](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/personas-and-journeys/pdf/educational-psychologist.pdf)
+    
+4.  [Head Teachers](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/personas-and-journeys/pdf/head-teachers.pdf)
+    
 
-## **Conclusion**
+**Conclusion**
 
 Stakeholder analysis uncovers and removes multiple barriers in understanding the project's progression, stakeholder analysis. It also eliminates the roadblocks in releasing successful projects by getting information about project supporters, opponents, and their levels of importance in the project.
 
 By using the consolidation methods of personas and user journeys we plan to achieve the following steps ahead:
+
 1.  User journeys will help in further building wireframes of each stakeholder for the platform
+    
 2.  It will address the needs and aspiration along with user action which the platform can cover
+    
 3.  It will also scope the space of opportunities that can be achieved as per user needs
