@@ -5,7 +5,7 @@
 Following the initial [Stakeholder Survey](../01-stakeholder-survey), a workshop was conducted with the key stakeholders to get inputs on the following fronts:
 - The data tools and resources most frequently used by Stakeholders and their experiences with the same.
 - The challenges faced by them while engaging with the information and systems in the current form.
-- Their inputs on certain possible features and wou
+- Their inputs on certain possible features for a new solution and how would like to to engage with the same.
 
 The workshop objectives and format can be seen [here](02-01-workshop.md) can be template for the workshop MURAL boards can be found [here](02-02-template.pdf).
 
@@ -18,7 +18,7 @@ All the stakeholders were asked to share the most frequently used tools and revi
 - Things they didn't like about the tool / platform.
 - Things they would like to improve about the tool / platform.
 
-All the findings from the section of the workshgit op was consolidated along with an in-depth design audit of the most frequently mentioned platforms. All the design audit work can found at the following [link](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/tree/main/design-audit). 
+All the findings from the section of the workshop was consolidated along with an in-depth design audit of the most frequently mentioned platforms. All the design audit work can found at the following [link](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/tree/main/design-audit). 
 
 ### Feature Feedback
 
@@ -30,7 +30,7 @@ The feedback for each individual feature has been consolidated [here](https://gi
 
 - The workshop was conducted using collaboration tool, [MURAL](https://www.mural.co/).
 - The stakeholders were divided in groups of 3-5 with varying roles and experiences.
-- Each group was moderated by a project memenb.
+- Each group was moderated by a project team member to conduct the workshop and take notes.
 
 ## Confidentiality
 
