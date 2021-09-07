@@ -245,10 +245,10 @@ The process of mapping their journey encourages and reminds them to consider the
 
 Outcomes of User Personas and their respective User Journey maps can be found below:
 
-1.  [Quality Improvement Managers](personas-and-journeys/pdf/quality-improvement-managers.pdf)
-2.  [Attainment Advisors](personas-and-journeys/pdf/attainment-dvisors.pdf)
-3.  [Education Psychologists](personas-and-journeys/pdf/educational-psychologist.pdf)
-4.  [Head Teachers](personas-and-journeys/pdf/head-teachers.pdf)
+1.  [Attainment Advisors](personas-and-journeys/pdf/attainment-dvisors.png)
+2.  [Education Psychologists](personas-and-journeys/pdf/educational-psychologist.png)
+3.  [Head Teachers](personas-and-journeys/pdf/head-teachers.png)
+4.  [Quality Improvement Managers](personas-and-journeys/pdf/quality-improvement-managers.png)
 
 **Conclusion**
 
