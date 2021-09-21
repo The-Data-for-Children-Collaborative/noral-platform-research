@@ -11,7 +11,7 @@ You can read more about the project and other related work [here](https://github
 - [Stakeholder Survey](research/01-stakeholder-survey)
 - [Stakeholder Workshop](research/02-stakeholder-workshop)
 - [Stakeholder Interviews](research/03-stakeholder-interviews)
-- [Key Findings](research)
+- [**Stakeholder Insights**](research/personas-and-journeys)
 
 ## Contributions
 
@@ -28,6 +28,7 @@ root
     └── 01-stakeholder-survey/
     └── 02-stakeholder-workshop/
     └── 03-stakeholder-interviews/
+    └── personas-and-journeys/
   └── _contribute/
   └── _decisions/
   └── LICENSE.md
