@@ -4,13 +4,13 @@
 
 ### Attainment Advisors
 
-![Attainment Advisors](./png/attainment-advisor.png)
+![Attainment Advisors](./png/attainment-advisors.png)
 
 ---
 
 ### Education Phycologist
 
-![Educational Psychologist](./png/attainment-advisor.png)
+![Educational Psychologist](./png/educational-psychologist.png)
 
 ---
 
